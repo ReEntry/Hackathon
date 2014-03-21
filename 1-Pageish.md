@@ -11,7 +11,7 @@ Build prototype technological overlay of Judge Aiken’s innovative re-entry/rec
 
 # Project Participants
 
-The project consists of three main committees:
+The project consists of three main groups:
 
 1) Stakeholder Committee: This committee will oversee development of the project. The stakeholder committee will be the ultimate “recipient” and owner of the project and will see to its long-term management and adoption. The stakeholder committee will likely be chaired by Judge Ann Aiken of the Oregon Federal District Court.
 
@@ -21,7 +21,11 @@ The project consists of three main committees:
 
 # Project Development
 
-1) Phase 1: Project Initiation. This phase has two aspects. Empaneling the two committees necessary for project and kick-off.
+## 1) Phase 1: 
+
+a. Project Initiation. 
+
+This phase has two aspects. Empaneling the two committees necessary for project and kick-off.
 
 b. Empanel Steering Committee and Expert Advisory Panel:
 
@@ -33,7 +37,7 @@ c. Kick-off:
 
 i. Schedule and hold a kick-off meeting to validate current project design, conduct additional project design, confirm schedule and otherwise direct project.
 
-2) Phase2: Development:
+## 2) Phase2: Development:
 
 a. The development process will be conducted by the following groups/roles:
 
@@ -43,7 +47,7 @@ ii. Project Team. The project team will work to execute the project by coordinat
 
 iii. Steering Committee. The Steering Committee will oversee development and, hopefully, broader promotion of the project.
 
-3) Phase 3: Delivery:
+## 3) Phase 3: Delivery:
 
 a. Upon completion, the project team will present and deliver the completed project to the Steering Committee. Delivery will include:
 
@@ -54,7 +58,7 @@ ii. Account transfer and ownership assignment of the GitHub Project. All project
 iii. Hand-Off. The hand-off will include a Google Hangout for a “final presentation” using slides, screen share, video and/or other online methods to walk through the deliverables and repositories, discuss/questions.
  
 
-Project Timeline:
+# Project Timeline:
 
 a. Call to organize Steering Committee and Expert Panel – Refine Discussion
 
@@ -73,5 +77,4 @@ d. Hand-Off:
 iv. August 1, 2014?
 
 v. Coordination with Law by Design Conference at Stanford? Judge Aiken to coordinate with Margaret Hagan and others.
- 
  
