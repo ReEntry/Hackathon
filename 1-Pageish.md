@@ -69,12 +69,6 @@ b. Kick Off:
 ii. May 15, 2014?
 
 c. Mid-Development Check-in:
+----
 
-iii. June 1, 2014?
-
-d. Hand-Off:
-
-iv. August 1, 2014?
-
-v. Coordination with Law by Design Conference at Stanford? Judge Aiken to coordinate with Margaret Hagan and others.
- 
+Originally posted to [https://github.com/ReEntry/Hackathon/blob/master/1-Pageish.md](https://github.com/ReEntry/Hackathon/blob/master/1-Pageish.md)
